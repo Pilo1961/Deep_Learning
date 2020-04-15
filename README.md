@@ -1,14 +1,6 @@
 # Deep_Learning
 Repositorio para tener las tareas de deep learning
 
-"colab": {
-      "name": "DL_09_AE_anomaly.ipynb",
-      "provenance": [],
-      "collapsed_sections": [],
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "accelerator": "GPU"
+"source": [
+        "<a href=\"https://colab.research.google.com/github/Pilo1961/Deep_Learning/blob/master/autoencoders/DL_09_AE_anomaly.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
